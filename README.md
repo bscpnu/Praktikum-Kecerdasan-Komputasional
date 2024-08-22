@@ -1,7 +1,13 @@
 # Praktikum Kecerdasan Komputasional
-Program Studi Rekayasa Kecerdasan Aritifisial, <br />
-Deptartemen Teknik Informatika, Insitut Teknologi Sepuluh Nopember
 
+> [!NOTE]
+> Program Studi Rekayasa Kecerdasan Aritifisial<br />
+> Deptartemen Teknik Informatika, Insitut Teknologi Sepuluh Nopember (ITS)
+
+> [!IMPORTANT]
+> <sup> Dosen         : Imam Mustafa Kamal, Ph.D. (imamkamal@its.ac.id)</sup> <br />
+> <sup>Lab Praktikum  : Ruangan IF-108 </sup> <br />
+> <sup>Hari, Jam      : Rabu, Jam 10.00 - 11.50 WIB </sup>
 
 ## Konten Praktikum:
 ### 1. Pengantar Kecerdasan Komputasional <sub><sup>[_minggu #1_]</sup></sub> <br />
@@ -9,14 +15,14 @@ Install tools untuk praktikum:
 * Python, numpy, matplotlib, pandas, and scipy
 * Jupyter Notebook
 
-### 2. Logic <sub><sup>[_minggu #2 - #3_]</sup></sub><br />
+### 2. Logic <sub><sup>[_minggu #2 - #4_]</sup></sub><br />
 * Logical Sentences
 * Operators for Constructing Logical Sentences
 * Propositional Knowledge Bases
 * Wumpus World Knowledge Bases
 * Inference in Propositional Knowledge Base
   
-### 3. Fuzzy Logic <sub><sup>[_minggu #4 - #7_]</sup></sub> <br />
+### 3. Fuzzy Logic <sub><sup>[_minggu #5 - #7_]</sup></sub> <br />
 * Basic Fuzzy Logic
 * Fuzzy Logic Mamdani
 * Fuzzy Logic Sugeno
@@ -37,3 +43,4 @@ Install tools untuk praktikum:
 
 ### 7. Evaluasi Akhir Semester (EAS) <sub><sup>[_minggu #15 - #16_]</sup></sub> <br />
 * Final Project (Kelompok)
+---
