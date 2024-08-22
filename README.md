@@ -9,6 +9,10 @@
 > <sup>Lab Praktikum  : Ruangan IF-108 </sup> <br />
 > <sup>Hari, Jam      : Rabu, Jam 10.00 - 11.50 WIB </sup>
 
+> [!TIP]
+> <sup> Referensi: [buku](https://people.engr.tamu.edu/guni/csce421/files/AI_Russell_Norvig.pdf), [source code](https://github.com/aimacode/aima-python), [aima-berkeley](https://aima.cs.berkeley.edu/) </sup>
+
+
 ## Konten Praktikum:
 ### 1. Pengantar Kecerdasan Komputasional <sub><sup>[_minggu #1_]</sup></sub> <br />
 Install tools untuk praktikum:
