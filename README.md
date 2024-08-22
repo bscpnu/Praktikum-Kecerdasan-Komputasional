@@ -4,9 +4,10 @@ Materi Praktikum Kecerdasan Komputasional,
 Program Studi Rekayasa Kecerdasan Aritifisial, Deptartemen T. Informatika ITS
 
 
-## Konten Materi:
+## Konten Praktikum:
 ### 1. Pengantar Kecerdasan Komputasional <br />
-* Python
+Install tools untuk praktikum:
+* Python, numpy, matplotlib, pandas, and scipy
 * Jupyter Notebook
 
 ### 2. Logic <br />
