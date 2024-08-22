@@ -5,12 +5,13 @@
 > Deptartemen Teknik Informatika, Insitut Teknologi Sepuluh Nopember (ITS)
 
 > [!IMPORTANT]
-> <sup> Dosen         : Imam Mustafa Kamal, Ph.D. (imamkamal@its.ac.id)</sup> <br />
+> <sup> Dosen         : Imam Mustafa Kamal, Ph.D. </sup> <br />
 > <sup>Lab Praktikum  : Ruangan IF-108 </sup> <br />
 > <sup>Hari, Jam      : Rabu, Jam 10.00 - 11.50 WIB </sup>
 
 > [!TIP]
-> <sup> Referensi: [buku](https://people.engr.tamu.edu/guni/csce421/files/AI_Russell_Norvig.pdf), [source code](https://github.com/aimacode/aima-python), [aima-berkeley](https://aima.cs.berkeley.edu/) </sup>
+> <sup> Referensi: [buku](https://people.engr.tamu.edu/guni/csce421/files/AI_Russell_Norvig.pdf), [source code](https://github.com/aimacode/aima-python), [aima-berkeley](https://aima.cs.berkeley.edu/) </sup> <br />
+> <sup> Email: imamkamal@its.ac.id</sup>
 
 
 ## Konten Praktikum:
