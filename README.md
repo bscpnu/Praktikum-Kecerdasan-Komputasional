@@ -19,6 +19,7 @@
 Install tools untuk praktikum:
 * [Python, numpy, matplotlib, pandas, and scipy](https://github.com/bscpnu/Praktikum-Kecerdasan-Komputasional/blob/main/1%20Pengantar%20Kecerdasan%20Komputasional.pdf)
 * [Jupyter Notebook](https://github.com/bscpnu/Praktikum-Kecerdasan-Komputasional/blob/main/1%20Pengantar%20Kecerdasan%20Komputasional.pdf)
+* [`Tugas I`](https://github.com/bscpnu/Praktikum-Kecerdasan-Komputasional/blob/main/1%20Pengantar%20Kecerdasan%20Komputasional.pdf) :mortar_board:
 
 ### 2. Logic <sub><sup>[_minggu #2 - #4_]</sup></sub><br />
 * Logical Sentences
@@ -26,20 +27,23 @@ Install tools untuk praktikum:
 * Propositional Knowledge Bases
 * Wumpus World Knowledge Bases
 * Inference in Propositional Knowledge Base
+* `Tugas II` :mortar_board:
   
 ### 3. Fuzzy Logic <sub><sup>[_minggu #5 - #7_]</sup></sub> <br />
 * Basic Fuzzy Logic
 * Fuzzy Logic Mamdani
 * Fuzzy Logic Sugeno
 * Fuzzy Logic Tsukamoto
+* `Tugas III` :mortar_board:
 
 ### 4. Evaluasi Tengah Semester (ETS) <sub><sup>[_minggu #8_]</sup></sub> <br />
-* Tugas Project (Individu)
+* Tugas Project (Individu) :mortar_board:
 
 ### 5. Probability dan Uncertainty <sub><sup>[_minggu #9 - #11_]</sup></sub> <br />
 * Probability Distribution
 * Bayesian Networks
 * Hidden Markov Models
+* `Tugas IV` :mortar_board:
 
 ### 6. Evolutionary Computation <sub><sup>[_minggu #12 - #14_]</sup></sub> <br />
 * Genetic Algorithm (GA)
@@ -47,5 +51,5 @@ Install tools untuk praktikum:
 * Grey Wolf Optimization (GWO)
 
 ### 7. Evaluasi Akhir Semester (EAS) <sub><sup>[_minggu #15 - #16_]</sup></sub> <br />
-* Final Project (Kelompok)
+* Final Project (Kelompok) :mortar_board:
 
