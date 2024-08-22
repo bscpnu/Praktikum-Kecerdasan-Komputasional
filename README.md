@@ -1,7 +1,6 @@
-# Praktikum-Kecerdasan-Komputasional
-Materi Praktikum Kecerdasan Komputasional, 
-
-Program Studi Rekayasa Kecerdasan Aritifisial, Deptartemen T. Informatika ITS
+# Praktikum Kecerdasan Komputasional
+Program Studi Rekayasa Kecerdasan Aritifisial, <br />
+Deptartemen Teknik Informatika, Insitut Teknologi Sepuluh Nopember
 
 
 ## Konten Praktikum:
