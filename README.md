@@ -17,7 +17,7 @@
 
 ## Konten Praktikum:
 ### 1. Pengantar Kecerdasan Komputasional <sub><sup>[_minggu #1_]</sup></sub> <br />
-Install tools untuk praktikum:
+Install tools berikut untuk praktikum:
 * [Python, numpy, matplotlib, pandas, and scipy](https://github.com/bscpnu/Praktikum-Kecerdasan-Komputasional/blob/main/1%20Pengantar%20Kecerdasan%20Komputasional.pdf)
 * [Jupyter Notebook](https://github.com/bscpnu/Praktikum-Kecerdasan-Komputasional/blob/main/1%20Pengantar%20Kecerdasan%20Komputasional.pdf)
 * [`Tugas I`](https://github.com/bscpnu/Praktikum-Kecerdasan-Komputasional/blob/main/1%20Pengantar%20Kecerdasan%20Komputasional.pdf) :mortar_board:
