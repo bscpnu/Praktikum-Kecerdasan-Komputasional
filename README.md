@@ -11,7 +11,8 @@
 
 > [!TIP]
 > <sup> Referensi: [buku](https://people.engr.tamu.edu/guni/csce421/files/AI_Russell_Norvig.pdf), [source code](https://github.com/aimacode/aima-python), [aima-berkeley](https://aima.cs.berkeley.edu/) </sup> <br />
-> <sup> Email: imamkamal@its.ac.id</sup>
+> <sup> Email: imamkamal@its.ac.id</sup><br />
+> <sup> Room: IF-235</sup>
 
 
 ## Konten Praktikum:
@@ -49,6 +50,7 @@ Install tools untuk praktikum:
 * Genetic Algorithm (GA)
 * Particle Swarm Optimization (PSO)
 * Grey Wolf Optimization (GWO)
+* `Tugas V` :mortar_board:
 
 ### 7. Evaluasi Akhir Semester (EAS) <sub><sup>[_minggu #15 - #16_]</sup></sub> <br />
 * Final Project (Kelompok) :mortar_board:
