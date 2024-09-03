@@ -18,10 +18,10 @@
 ## Konten Praktikum:
 ### 1. Pengantar Kecerdasan Komputasional <sub><sup>[_minggu #1_]</sup></sub> <br />
 Install tools berikut untuk praktikum:
-* [Python, numpy, matplotlib, pandas, seklearn, and scipy]([https://github.com/bscpnu/Praktikum-Kecerdasan-Komputasional/blob/main/1%20Pengantar%20Kecerdasan%20Komputasional.pdf](https://github.com/bscpnu/Praktikum-Kecerdasan-Komputasional/blob/main/Praktikum/1%20-%20Pengantar%20Kecerdasan%20Komputasional/1%20Pengantar%20Kecerdasan%20Komputasional.pdf)
-* [Jupyter Notebook]([https://github.com/bscpnu/Praktikum-Kecerdasan-Komputasional/blob/main/1%20Pengantar%20Kecerdasan%20Komputasional.pdf](https://github.com/bscpnu/Praktikum-Kecerdasan-Komputasional/blob/main/Praktikum/1%20-%20Pengantar%20Kecerdasan%20Komputasional/1%20Pengantar%20Kecerdasan%20Komputasional.pdf)
-* [Google Colab]([https://colab.research.google.com/](https://github.com/bscpnu/Praktikum-Kecerdasan-Komputasional/blob/main/Praktikum/1%20-%20Pengantar%20Kecerdasan%20Komputasional/1%20Pengantar%20Kecerdasan%20Komputasional.pdf))
-* [`Tugas I`]([https://github.com/bscpnu/Praktikum-Kecerdasan-Komputasional/blob/main/1%20Pengantar%20Kecerdasan%20Komputasional.pdf](https://github.com/bscpnu/Praktikum-Kecerdasan-Komputasional/blob/main/Praktikum/1%20-%20Pengantar%20Kecerdasan%20Komputasional/1%20Pengantar%20Kecerdasan%20Komputasional.pdf) :mortar_board:
+* [Python, numpy, matplotlib, pandas, seklearn, and scipy](https://github.com/bscpnu/Praktikum-Kecerdasan-Komputasional/blob/main/Praktikum/1%20-%20Pengantar%20Kecerdasan%20Komputasional/1%20Pengantar%20Kecerdasan%20Komputasional.pdf)
+* [Jupyter Notebook](https://github.com/bscpnu/Praktikum-Kecerdasan-Komputasional/blob/main/Praktikum/1%20-%20Pengantar%20Kecerdasan%20Komputasional/1%20Pengantar%20Kecerdasan%20Komputasional.pdf)
+* [Google Colab](https://github.com/bscpnu/Praktikum-Kecerdasan-Komputasional/blob/main/Praktikum/1%20-%20Pengantar%20Kecerdasan%20Komputasional/1%20Pengantar%20Kecerdasan%20Komputasional.pdf)
+* [`Tugas I`](https://github.com/bscpnu/Praktikum-Kecerdasan-Komputasional/blob/main/Praktikum/1%20-%20Pengantar%20Kecerdasan%20Komputasional/1%20Pengantar%20Kecerdasan%20Komputasional.pdf) :mortar_board:
 
 ### 2. Logic <sub><sup>[_minggu #2 - #4_]</sup></sub><br />
 * [Logical Sentences](https://github.com/bscpnu/Praktikum-Kecerdasan-Komputasional/blob/main/Praktikum/2%20-%20Logical%20Agents/logic.ipynb)
