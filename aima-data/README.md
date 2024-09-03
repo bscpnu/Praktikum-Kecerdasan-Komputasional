@@ -1,14 +1,14 @@
 # `aima-data`
-Data files to accompany the algorithms from Norvig And Russell's *Artificial Intelligence - A Modern Approach*.
-The idea is that the same data files can be used with any of the implementations: `aima-java`, `aima-python`, `aima-lisp`, or eventually `aima-javascript`.
+File data untuk mendampingi algoritma dari buku Norvig dan Russell berjudul *Artificial Intelligence - A Modern Approach*.
+Gagasan utamanya adalah bahwa file data yang sama dapat digunakan dengan implementasi apa pun:: `aima-java`, `aima-python`, `aima-lisp`, or eventually `aima-javascript`.
 
-The data is divided into three types:
+Data ini dibagi menjadi tiga jenis:
 
-1. Range data for Robot Localization
-2. Machine Learning data sets
-3. English text
+1. Data jangkauan untuk Lokalisasi Robot
+2. Kumpulan data Pembelajaran Mesin
+3. Teks bahasa Inggris
 
-We'll list the source files for each of the three:
+Kami akan mencantumkan file sumber untuk masing-masing dari ketiga jenis data tersebut:
 
 ## Range data for Robot Localization
 ```text
