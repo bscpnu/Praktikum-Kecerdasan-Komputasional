@@ -26,9 +26,9 @@ Install tools berikut untuk praktikum:
 ### 2. Logic <sub><sup>[_minggu #2 - #4_]</sup></sub><br />
 * [Panduan Praktikum Logic](https://github.com/bscpnu/Praktikum-Kecerdasan-Komputasional/blob/main/Praktikum/2%20-%20Logical%20Agents/2%20Panduan%20Praktikum%20Logic.pdf)
 * [Logical Sentences](https://github.com/bscpnu/Praktikum-Kecerdasan-Komputasional/blob/main/Praktikum/2%20-%20Logical%20Agents/logic.ipynb)
-* Operators for Constructing Logical Sentences
-* Propositional Knowledge Bases
-* Wumpus World Knowledge Bases
+* [Operators for Constructing Logical Sentences](https://github.com/bscpnu/Praktikum-Kecerdasan-Komputasional/blob/main/Praktikum/2%20-%20Logical%20Agents/logic.ipynb)
+* [Propositional Knowledge Bases](https://github.com/bscpnu/Praktikum-Kecerdasan-Komputasional/blob/main/Praktikum/2%20-%20Logical%20Agents/logic.ipynb)
+* [Wumpus World Knowledge Bases](https://github.com/bscpnu/Praktikum-Kecerdasan-Komputasional/blob/main/Praktikum/2%20-%20Logical%20Agents/logic.ipynb)
 * Inference in Propositional Knowledge Base
 * `Tugas II` :mortar_board:
   
