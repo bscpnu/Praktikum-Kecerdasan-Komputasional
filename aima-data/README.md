@@ -6,17 +6,17 @@ Data ini dibagi menjadi tiga jenis:
 
 1. Data jangkauan untuk Lokalisasi Robot
 2. Kumpulan data Pembelajaran Mesin
-3. Teks bahasa Inggris
+3. Teks bahasa Inggris (English texts)
 
 Kami akan mencantumkan file sumber untuk masing-masing dari ketiga jenis data tersebut:
 
-## Range data for Robot Localization
+## Data jangkauan untuk Lokalisasi Robot (Range data for Robot Localization)
 ```text
     ascii-robotdata1.log        The data
     ascii-robotdata1.txt        Description of the data
 ```
 
-## Machine Learning Data Sets
+## Kumpulan data Pembelajaran Mesin
 ```text
     iris.csv                        Data on different types of iris flowers
     orings.csv                      Data from O-rings on space shuttle missions
