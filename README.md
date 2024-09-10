@@ -29,8 +29,8 @@ Install tools berikut untuk praktikum:
 * [Operators for Constructing Logical Sentences](https://github.com/bscpnu/Praktikum-Kecerdasan-Komputasional/blob/main/Praktikum/2%20-%20Logical%20Agents/logic.ipynb)
 * [Propositional Knowledge Bases](https://github.com/bscpnu/Praktikum-Kecerdasan-Komputasional/blob/main/Praktikum/2%20-%20Logical%20Agents/logic.ipynb)
 * [Wumpus World Knowledge Bases](https://github.com/bscpnu/Praktikum-Kecerdasan-Komputasional/blob/main/Praktikum/2%20-%20Logical%20Agents/logic.ipynb)
-* Inference in Propositional Knowledge Base
-* `Tugas II` :mortar_board:
+* [Inference in Propositional Knowledge Base](https://github.com/bscpnu/Praktikum-Kecerdasan-Komputasional/blob/main/Praktikum/2%20-%20Logical%20Agents/logic.ipynb)
+* [`Tugas II`](https://github.com/bscpnu/Praktikum-Kecerdasan-Komputasional/blob/main/Praktikum/2%20-%20Logical%20Agents/Tugas%201/Tugas2%20logical%20agents.pdf) :mortar_board:
   
 ### 3. Fuzzy Logic <sub><sup>[_minggu #5 - #7_]</sup></sub> <br />
 * Basic Fuzzy Logic
