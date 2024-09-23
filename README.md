@@ -33,7 +33,7 @@ Install tools berikut untuk praktikum:
 * [`Tugas II`](https://github.com/bscpnu/Praktikum-Kecerdasan-Komputasional/blob/main/Praktikum/2%20-%20Logical%20Agents/Tugas%202/Tugas2%20logical%20agents.pdf) :mortar_board:
   
 ### 3. Fuzzy Logic <sub><sup>[_minggu #5 - #7_]</sup></sub> <br />
-* Basic Fuzzy Logic
+* [Basic Fuzzy Logic](https://github.com/bscpnu/Praktikum-Kecerdasan-Komputasional/blob/main/Praktikum/3%20-%20Fuzzy%20Logic/Fuzzy_Logic.ipynb)
 * Fuzzy Logic Mamdani
 * Fuzzy Logic Sugeno
 * Fuzzy Logic Tsukamoto
