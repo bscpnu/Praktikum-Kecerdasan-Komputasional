@@ -58,3 +58,4 @@ Install tools berikut untuk praktikum:
 ### 7. Evaluasi Akhir Semester (EAS) <sub><sup>[_minggu #15 - #16_]</sup></sub> <br />
 * Final Project (Kelompok) :mortar_board:
 
+[:love_letter: survey](https://forms.gle/KVvhk7Xp8pVB9xbL7)
