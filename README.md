@@ -35,9 +35,9 @@ Install tools berikut untuk praktikum:
 ### 3. Fuzzy Logic <sub><sup>[_minggu #5 - #7_]</sup></sub> <br />
 * [`Panduan Praktikum Fuzzy Logic`](https://github.com/bscpnu/Praktikum-Kecerdasan-Komputasional/blob/main/Praktikum/3%20-%20Fuzzy%20Logic/3%20Panduan%20praktikum%20fuzzy.pdf)
 * [Basic Fuzzy Logic](https://github.com/bscpnu/Praktikum-Kecerdasan-Komputasional/blob/main/Praktikum/3%20-%20Fuzzy%20Logic/Fuzzy_Logic.ipynb)
-* Fuzzy Logic Mamdani
-* Fuzzy Logic Sugeno
-* Fuzzy Logic Tsukamoto
+* [Fuzzy Logic Mamdani](https://github.com/bscpnu/Praktikum-Kecerdasan-Komputasional/blob/main/Praktikum/3%20-%20Fuzzy%20Logic/Fuzzy_Logic.ipynb)
+* [Fuzzy Logic Sugeno](https://github.com/bscpnu/Praktikum-Kecerdasan-Komputasional/blob/main/Praktikum/3%20-%20Fuzzy%20Logic/Fuzzy_sugeno.ipynb)
+* [Fuzzy Logic Tsukamoto](https://github.com/bscpnu/Praktikum-Kecerdasan-Komputasional/blob/main/Praktikum/3%20-%20Fuzzy%20Logic/Fuzzy_Tsukamoto.ipynb)
 * `Tugas III` :mortar_board:
 
 ### 4. Evaluasi Tengah Semester (ETS) <sub><sup>[_minggu #8_]</sup></sub> <br />
