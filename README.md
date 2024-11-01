@@ -45,7 +45,7 @@ Install tools berikut untuk praktikum:
 
 ### 5. Probability dan Uncertainty <sub><sup>[_minggu #9 - #11_]</sup></sub> <br />
 * [Probability Distribution](https://github.com/bscpnu/Praktikum-Kecerdasan-Komputasional/blob/main/Praktikum/4%20-%20Probability%20dan%20Uncertainty/probability.ipynb)
-* Bayesian Networks
+* [Bayesian Networks](https://github.com/bscpnu/Praktikum-Kecerdasan-Komputasional/blob/main/Praktikum/4%20-%20Probability%20dan%20Uncertainty/probability.ipynb)
 * Hidden Markov Models
 * `Tugas IV` :mortar_board:
 
