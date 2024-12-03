@@ -52,7 +52,7 @@ Install tools berikut untuk praktikum:
 ### 6. Evolutionary Computation <sub><sup>[_minggu #12 - #14_]</sup></sub> <br />
 * [Genetic Algorithm (GA)](https://github.com/bscpnu/Praktikum-Kecerdasan-Komputasional/blob/main/Praktikum/5%20-%20Genetic%20Algorithm/Genetic_Algorithm.ipynb)
 * [Particle Swarm Optimization (PSO)](https://github.com/bscpnu/Praktikum-Kecerdasan-Komputasional/blob/main/Praktikum/6%20-%20Particle%20Swarm%20Optimization/Genetic%20Algorithm%20-%20Particle%20Swarm%20Optimization%20.ipynb)
-* Grey Wolf Optimization (GWO)
+* [Grey Wolf Optimization (GWO)](https://github.com/bscpnu/Praktikum-Kecerdasan-Komputasional/blob/main/Praktikum/7%20-%20Grey%20Wolf%20Optimization/gwo-svm.ipynb)
 * `Tugas V` :mortar_board:
 
 ### 7. Evaluasi Akhir Semester (EAS) <sub><sup>[_minggu #15 - #16_]</sup></sub> <br />
